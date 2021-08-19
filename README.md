@@ -1,2 +1,2 @@
 # git-github-demo
-This is for practice purpose
+This is for Git & Github practice purpose
